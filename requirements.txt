@@ -1,0 +1,4 @@
+pydub
+mutagen
+ffmpeg
+
