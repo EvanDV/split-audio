@@ -34,14 +34,14 @@ Prepare your tracklist.txt like this:
 >0:00:25  
 Artist #1  
 Song Title #1  
-
-0:06:10  
+>
+>0:06:10  
 Artist #2  
 Song Title #1  
-
-.
-.
-.
+>
+>.
+>.
+>.
 
 
 Each track should have:
